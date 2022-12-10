@@ -8,4 +8,5 @@ numpy 1.22.0
 pandas 1.3.5  
 scipy 1.8.0  
 h5py 3.6.0  
+tf-slim 1.1.0  
 
