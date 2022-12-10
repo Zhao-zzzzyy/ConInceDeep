@@ -1,0 +1,2 @@
+# Note
+It should be noticed that when users adopt training_data_generating.m to creat 2D CWT coefficient for virtual mixtures, it need to  be ensured that this m.file is in the same file path with another m.file named "mexihat.m" to use Lorentz4 wavelet.
